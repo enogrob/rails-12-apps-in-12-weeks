@@ -16,8 +16,10 @@ The goal with this challenge is to learn Ruby on Rails by building a new web app
 ## Topics
 ```
 Rails 12 Web Apps in 12 Weeks
+
 How to build a Reddit or Hacker News Style Web App in Rails 4 1:08:07
 [x] Generating link Scaffolding
+[~] Add Users
 
 How to build a blog in rails 4 1:11:21
 How To Build A Recipe Box In Rails 4 1:18:37

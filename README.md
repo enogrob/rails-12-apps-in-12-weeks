@@ -3,9 +3,9 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Rails 12 Web Apps in 12 Weeks
+# Tutorial Rails 12 Web Apps in 12 Weeks
 
-![project image](images/rails.png)
+![project image](images/tutorial.png)
 
 **About**
 
@@ -15,7 +15,7 @@ The goal with this challenge is to learn Ruby on Rails by building a new web app
 
 ## Topics
 ```
-Rails 12 Web Apps in 12 Weeks
+Tutorial Rails 12 Web Apps in 12 Weeks
 
 [~] how-to-build-a-reddit-or-hacker-news-style-web-app-in-rails-4 1:08:07
 [ ] How to build a blog in rails 4 1:11:21
